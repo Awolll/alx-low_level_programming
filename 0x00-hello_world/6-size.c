@@ -2,8 +2,10 @@
 
 /**
  * main - print the string in the put function
- * this program using main function
- * return:0
+ *
+ * Descripition: using the main function
+ * this program prints "programming is like building a mulitlingual puzzle
+ * Return: 0
  */
 int main(void)
 {
